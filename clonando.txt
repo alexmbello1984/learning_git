@@ -67,8 +67,60 @@ E:\Develop\learning_git>git status
 Esto ha pasado el archivo clonando.txt al stage area
 todo lo que este en el stage area será enviado al commit siguiente
 
+8. adicionar todos los archivos que se estan reastreando
+---------------------------------------------------
+
+E:\Develop\learning_git>git add .
+
+
+
 8. realizando el Commit
 ---------------------------------------------------
+
+E:\Develop\learning_git>git commit -m "se agrego clonando.txt"
+[master c5a3ca3] se agrego clonando.txt
+ 1 file changed, 74 insertions(+)
+ create mode 100644 clonando.txt
+
+ 
+ 9. Revisando el listado de commits
+ --------------------------------------------------
+ 
+ E:\Develop\learning_git>git log
+commit c5a3ca3e6e5b44cf4ce35d1708fde162d7fec9f4
+Author: alexmbello <alexmbello@gmail.com>
+Date:   Sun Dec 28 16:40:50 2014 -0500
+
+    se agrego clonando.txt
+
+commit ca0caababfc46a4dce7adf04f64bb77b862f4f2b
+Author: alexander Montaña Bello <alexmbello1984@gmail.com>
+Date:   Sun Dec 28 15:16:14 2014 -0500
+
+    Initial commit
+	
+10. viculando el remoto de github
+---------------------------------------------------
+
+adicionar el remoto de github para poder empujar mis archivos sobre
+los que colaboré
+
+	
+ 
+ 11. Empujando los cambios al repo de github
+ ---------------------------------------------------
+ 
+E:\Develop\learning_git>git push origin master
+Username for 'https://github.com': <<mail_cuenta_github>>
+Password for 'https://<<mail_cuenta_github>>@github.com':
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.10 KiB | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/alexmbello1984/learning_git.git
+   ca0caab..c5a3ca3  master -> master
+
 
 
 

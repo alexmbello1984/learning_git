@@ -5,39 +5,36 @@ Capitulo 001
 	* What is git
 
 Capitulo 002
-	Uso basico de Git
-	Clonar repositorios
-	ver historia del proyecto
-	Modificar archivos 
-	Contribuir con cambios
+	* Uso basico de Git
+	* Clonar repositorios
+	* ver historia del proyecto
+	* Modificar archivos 
+	* Contribuir con cambios
 	
 Capitulo 003
-	Modelo re Ramas en Git
+	* Modelo re Ramas en Git
 
- 
  Capitulo 004
-	Git en el servidor 
-	Como configurar Git dentro de su organizacion o en su propio servidor personal para colaboracion
+	* Git en el servidor 
+	* Como configurar Git dentro de su organizacion o en su propio servidor personal para colaboracion
 	
 Capitulo 005
-	Como llevar a cabo flujos de trabajo distribuido
-	multiples repositorios remotos
+	* Como llevar a cabo flujos de trabajo distribuido
+	* multiples repositorios remotos
 	
 Capitulo 006
-	Servicios de Hosting de github y herramientas en profundidad
-	Contratar  y usar una cuenta
-	crear y usar repositorios
-	flujos de trabajo
-	
+	* Servicios de Hosting de github y herramientas en profundidad
+	* Contratar  y usar una cuenta
+	* Crear y usar repositorios
+	* Flujos de trabajo
 	
 Capitulo 007
-	Comandos avanzados de Git
-    	
+	* Comandos avanzados de Git
+	
 Capitulo 008
-    Configurar y personalizar su ambiente Git
-    Construccion de scripts para reforzar una politica de commits.
+    * Configurar y personalizar su ambiente Git
+    * Construccion de scripts para reforzar una politica de commits.
 
 Capitulo 009
-    operacion de Git con otros Controladores de Version de Software
-	Como convertir proyectos de otros Sistemas de Version a Git
-
+    * operacion de Git con otros Controladores de Version de Software
+	* Como convertir proyectos de otros Sistemas de Version a Git
